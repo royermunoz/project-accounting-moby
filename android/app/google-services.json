@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17851783053",
+    "project_id": "project-accounting-moby",
+    "storage_bucket": "project-accounting-moby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17851783053:android:b105e428a009a8fd804fc4",
+        "android_client_info": {
+          "package_name": "com.moby.project_accounting_moby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17851783053-mkjs835c28mmbbdn5br3go7s65ipofbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf-fNCEudrVvgsVFmdLPO9Qq4xXHMvXxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17851783053-mkjs835c28mmbbdn5br3go7s65ipofbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
